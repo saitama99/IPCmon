@@ -23,3 +23,7 @@ Run the following command to install the required packages:
 
 ```sh
 pip install -r requirements.txt
+```
+## 🚀 Usage
+
+Run the `IPCmon.exe` available in the `dist/` folder:
